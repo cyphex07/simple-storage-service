@@ -1,4 +1,4 @@
-package com.hex.drive.simplestorageservice;
+package com.hex.drive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
